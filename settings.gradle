@@ -1,0 +1,2 @@
+rootProject.name = "Notification_kotlin_android"
+include ':app'
